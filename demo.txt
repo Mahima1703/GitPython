@@ -1,0 +1,3 @@
+Step1 : Account Open in Github
+
+Step2 : Git clone
